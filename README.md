@@ -1,4 +1,4 @@
-#Domail - Bulk email processing tool
+# Domail - Bulk email processing tool
 
 Domail is designed to effortlessly terminate your hassles with technical details in your communication-sending applications and streamline the entire process.
 
